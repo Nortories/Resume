@@ -10,7 +10,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-so
 
 ### General Resume
 
-- [General Resume](https://github.com/Nortories/Resume/blob/main/Joshua%20Resume.pdf) - A comprehensive resume suitable for a wide range of roles.
+- [My Resume](https://github.com/Nortories/Resume/blob/main/Joshua%20Resume.pdf) - A comprehensive resume suitable for a wide range of roles.
 
 ## Contributing
 
