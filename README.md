@@ -12,6 +12,10 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-so
 
 - [My Resume](https://github.com/Nortories/Resume/blob/main/Joshua%20Resume.pdf) - A comprehensive resume suitable for a wide range of roles.
 
+## Certificates
+
+- Computer-Aided Design and Drafting certificate [CADD](https://github.com/Nortories/Resume/blob/main/CADD-Certificate.pdf)
+
 ## Contributing
 
 While this repository is primarily for my personal professional documentation, I welcome feedback and suggestions on how to improve my resumes. If you have any recommendations or notice any discrepancies, please feel free to open an issue or submit a pull request.
