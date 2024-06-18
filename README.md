@@ -10,7 +10,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-so
 
 ### General Resume
 
-- [My Resume](https://github.com/Nortories/Resume/blob/main/Joshua%20Resume.pdf) - A comprehensive resume suitable for a wide range of roles.
+- [My Resume](https://github.com/Nortories/Resume/blob/main/Resume%20Joshua%20Sooaemalelagi.pdf) - A comprehensive resume suitable for a wide range of roles.
 
 ## Certificates
 
@@ -18,7 +18,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-so
 
 ## Contributing
 
-While this repository is primarily for my personal professional documentation, I welcome feedback and suggestions on how to improve my resumes. If you have any recommendations or notice any discrepancies, please feel free to open an issue or submit a pull request.
+I welcome feedback and suggestions on how to improve my resumes.
 
 ## Contact
 
