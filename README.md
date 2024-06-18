@@ -1,6 +1,6 @@
 # Joshua Sooaemalelagi's Resumes
 
-Welcome to my resumes repository! Here, you'll find my resume.
+Welcome to my resumes repository! Here, you'll find my resume in case that wasnt clear...
 
 ## About Me
 
