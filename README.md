@@ -14,7 +14,9 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-so
 
 ## Certificates
 
+- Computer Programming certificate [Programming](https://github.com/Nortories/Resume/blob/main/Programming%20Certificate.pdf)
 - Computer-Aided Design and Drafting certificate [CADD](https://github.com/Nortories/Resume/blob/main/CADD-Certificate.pdf)
+- AWS Cloud Practitioner certificate  [AWS CP](https://github.com/Nortories/Resume/blob/main/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
 
 ## Contributing
 
