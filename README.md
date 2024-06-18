@@ -4,9 +4,9 @@ Welcome to my resumes repository! Here, you'll find my resume in case that wasnt
 
 ## About Me
 
-I'm Joshua Sooaemalelagi, a Full stack Software Engineer. With a (SOON TO BE DEC,2025) Degree in Software Endineering and a minor in Web Development from Brigham Young University-Idaho. I specialize in Software development, with a strong background in Design.
+Name is Joshua Sooaemalelagi, a Full stack Software Engineer. With a (SOON TO BE DEC,2025) BS Degree in Software Endineering and a minor in Web Development @ Brigham Young University-Idaho. For more about me read gold. Read the about me in my Github overview. [Nortories Github Overview](https://www.github.com/nortories)
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-sooaemalelagi/) or reach out directly via email at Sooaemalelagij@gmail.com.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-sooaemalelagi/) 
 
 ### General Resume
 
